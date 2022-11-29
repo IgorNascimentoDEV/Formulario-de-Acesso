@@ -7,7 +7,7 @@ function logar()
     //validação do usuario e senha "nessa validação estamos trabalhando com um unico usuario e senha"
     if(login == 'admin' && senha == 'admin'){
         
-        location.href = "http://localhost:4200"
+        location.href = "https://aplicacaoaccenture.web.app/"
     
     }else{
         alert('Usuario ou senha invalido');
